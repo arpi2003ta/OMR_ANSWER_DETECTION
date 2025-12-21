@@ -73,7 +73,7 @@ You may insert sample subject images like this:
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/OMR_ANSWER_DETECTION.git
+git clone https://github.com/Babarinde1/OMR_ANSWER_DETECTION.git
 cd OMR_ANSWER_DETECTION
 ```
 
